@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+footer, header {
+  text-decoration: 'none';
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+}
+
+.content {
+  margin: 2vw;
+}
+
